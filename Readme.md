@@ -22,7 +22,7 @@ Welcome to the **Machine Learning Projects** repository! 🤖💡 This repositor
 14. **Titanic Survival Prediction using Machine Learning** 🚢
 15. **Calories Burnt Prediction** 🔥
 16. **Spam Mail Prediction using Machine Learning** 📧
-17. **Spam Mail Prediction using Machine Learning** 📧
+17. **Movie Recommendation System using Machine Learning** 🎥
 18. **Breast Cancer Classification using Machine Learning** 🏥
 19. **Rainfall Prediction using Machine Learning** ☔
 20. **Autism Prediction using Machine Learning** 🧠
