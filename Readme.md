@@ -27,6 +27,7 @@ Welcome to the **Machine Learning Projects** repository! 🤖💡 This repositor
 19. **Rainfall Prediction using Machine Learning** ☔
 20. **Autism Prediction using Machine Learning** 🧠
 21. **Customer Churn Prediction using ML** 📉
+22. **Extra Learning Projects for Deployment and Better Understandings**
 
 ---
 
