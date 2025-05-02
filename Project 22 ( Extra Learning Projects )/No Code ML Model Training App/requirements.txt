@@ -1,0 +1,5 @@
+streamlit==1.32.2
+streamlit-option-menu==0.3.12
+openpyxl==3.1.2
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
